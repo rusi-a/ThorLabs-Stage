@@ -6,8 +6,8 @@ import threading
 from System import Decimal
 
 KINESIS_PATH = r"C:\Program Files\Thorlabs\Kinesis"
-SERIAL_Y = "27600149"
-SERIAL_X = "27750395"
+SERIAL_X = "27600149"
+SERIAL_Y = "27750395"
 STAGE_RANGE_MM = 50.0
 
 sys.path.append(KINESIS_PATH)
